@@ -7,8 +7,6 @@ public class AirelineTests {
 
     @Test
     public void createAirelines(){
-        Response response = RestAssured.given().log().all();
 
-        .baseURl("")
     }
 }
